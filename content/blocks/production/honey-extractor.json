@@ -1,0 +1,21 @@
+type: GenericSmelter
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 45
+craftEffect: smeltsmoke
+consumes: {
+  power: 0.20
+  items: {
+    items: [
+	  wood/1
+	]
+  }
+}
+outputItem: honey/1
+requirements: [
+  copper/200
+  lead/100
+]
+category: crafting
+research: silicon-smelter

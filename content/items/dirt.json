@@ -1,0 +1,7 @@
+{
+"type": "resource",
+"name": "dirt",
+"cost": 2,
+"hardness": 2,
+"color": "0ed145"
+}

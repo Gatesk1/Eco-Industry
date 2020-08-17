@@ -1,0 +1,44 @@
+"type": "ImpactReactor",
+	"name": "hydroelectric power station",
+	"description": "Водичка",
+	"itemDuration": 120,
+	"liquidCapacity": 20,
+	"size": 4,
+	"hasLiquids": true,
+  "powerProduction": 200.0,
+	"consumes": {
+		"power": 50.0,
+		liquid: {
+    liquid: water
+    amount: 0.1
+}
+	}
+	"requirements": [
+		{ "item": "honey-alloy", "amount": 450 },
+
+		{ "item": "silicon", "amount": 700 },
+		{ "item": "lead", "amount": 700 },
+		{ "item": "titanium", "amount": 700 },
+		{ "item": "plastanium", "amount": 450 },
+
+	],
+	"category": "power",
+	"research": "impact-reactor"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

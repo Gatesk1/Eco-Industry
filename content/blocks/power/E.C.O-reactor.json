@@ -1,0 +1,26 @@
+type: NuclearReactor
+size: 3
+health: 850
+itemDuration: 420 //lmfao
+powerProduction: 20
+consumes: {
+  items: {
+    items: [
+      fertilizer/1
+    ]
+  }
+  liquid: {
+    liquid: cryofluid
+    amount: 0.1
+  }
+}
+heating: 0.05
+explosionRadius: 54
+explosionDamage: 1760
+requirements: [
+  lead/300
+  silicon/150
+  metaglass/75
+]
+category: power
+research: thorium-reactor

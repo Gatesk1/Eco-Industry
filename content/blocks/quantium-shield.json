@@ -1,0 +1,30 @@
+{
+	"name": "Quantium Shield",
+	"description": "quantium shield",
+	"type": "ForceProjector",
+	"health": 6000,
+	"size": 3,
+	"radius": 200.0,
+	"phaseRadiusBoost":50,
+	"cooldownNormal": 3.0,
+	"consumes":{
+	    "power": 30,
+	  	"items": {
+			"items": [
+				{ "item": "Aerosol", "amount": 2}
+				
+			],
+			"booster":true
+		}
+	    },
+	"requirements": [
+		{ "item": "quant", "amount": 30},
+		{ "item": "thorium", "amount":750},
+		{ "item": "titanium", "amount": 500},
+		{ "item": "silicon", "amount": 825}
+		
+	],
+	"boost":true,
+	"category": "effect",
+	"research": "force-projector"
+}

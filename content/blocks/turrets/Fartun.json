@@ -1,0 +1,48 @@
+{
+"type": "ArtilleryTurret",
+"name": "[yellow]Fartun",
+"description": "-",
+"targetAir": true,
+"targetGround": true,
+"health": 3000,
+"size": 3,
+"inaccuracy": 1,
+"reload": 0.1,
+"shootShake": 3,
+"shots": 24,
+"range": 200,
+"ammo": {
+"honey": {
+"speed": 5,
+"damage": 30,
+"lifetime": 54,
+"bulletWidth": 15,
+"shootShake": 0.5,
+"bulletHeight": 8,
+"shootEffect": "shootBig2",
+"smokeEffect": "shootBigSmoke2",
+	"hitEffect": "hitBulletBig",
+"ammoMultiplier": 12
+},
+"honey-alloy": {
+"speed": 5,
+"damage": 60,
+"lifetime": 54,
+"bulletWidth": 15,
+"shootShake": 0.5,
+"bulletHeight": 8,
+"shootEffect": "shootBig2",
+"smokeEffect": "shootBigSmoke2",
+	"hitEffect": "hitBulletBig",
+"ammoMultiplier": 12
+        }
+    }
+"requirements": [
+{ "item": "silicon", "amount": 100},
+{ "item": "honey-alloy", "amount": 100},
+{ "item": "carcass", "amount": 10}
+],
+"category": "turret",
+"shootSound": "bigshot"
+	"research": "Fartun"
+}

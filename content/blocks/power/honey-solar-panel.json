@@ -1,0 +1,11 @@
+type: "solarGenerator"
+name: "honey-solar-panel"
+description: "-"
+size: 2
+powerProduction: 1
+category: "power"
+requirements: [
+silicon/10
+honey-rubber/25
+]
+research: "solar-panel"

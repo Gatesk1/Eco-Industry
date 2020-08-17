@@ -1,0 +1,12 @@
+type: Floor
+liquidDrop: liquid-dirt-lava
+speedMultiplier: 0.15
+variants: 0
+isLiquid: true
+status: melting
+statusDuration: 180
+drownUpdateEffect: burning
+walkEffect: melting
+blendGroup: water
+drownTime: 40
+cacheLayer: tar

@@ -1,0 +1,11 @@
+{
+name:"liquid honey"
+description:"typical honey :)"
+temperature:0.7,
+flammability: 4,
+heatCapacity:0,
+viscosity:0.5,
+explosiveness:0,
+color:"#DEC614"
+}
+

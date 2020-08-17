@@ -1,0 +1,34 @@
+{
+"type": "Separator",
+"name": "Separator magm",
+"description": "Дробит, а затем извлекает хранящиеся глубоко под поверхностью ресурсы",
+"health": 600,
+"itemCapacity": 50,
+"results": [
+{"item": "zirconium", "amount": 9},
+{"item": "titanium", "amount": 4},
+{"item": "Red-Rubin", "amount": 9},
+{"item": "Green-Rubin", "amount": 5},
+{"item": "thorium", "amount": 3}
+]
+"size": 3,
+"hasPower": true,
+"hasItems": true,
+"craftTime": 50,
+"consumes": {
+	"power": 6.0,
+	"liquid": {
+	    "liquid": "liquid-dirt-lava", 
+	    "amount": 0.1,
+	}
+}
+	"requirements": [
+		{ "item": "Aerosol", "amount": 20 },
+		{ "item": "wood", "amount": 80 },
+		{ "item": "thorium", "amount": 1500 }
+	],
+	"research": "laser-drill",
+	"category": "production",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.1
+}

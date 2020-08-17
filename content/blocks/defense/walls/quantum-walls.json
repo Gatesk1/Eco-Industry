@@ -1,0 +1,12 @@
+type: DeflectorWall
+name: quantum walls
+description: A powerful bullet reflecting wall.
+health: 4000
+group: walls
+maxDamageDeflect: 100
+category: defense
+requirements: [
+  quant/25
+  Red-Rubin/15
+]
+research:reinforced-wall

@@ -1,0 +1,39 @@
+{
+	"type": "GroundUnit",
+	"name": "Abolisher",
+	"description": "Destroys things, properly.",
+	"maxVelocity": 0.45,
+	"speed": 0.5,
+	"drag": 100,
+	"mass": 9,
+	"rotatespeed": 0.01,
+	"baseRotateSpeed": 1,
+	"hitsizeTile": 15,
+	"hitsize": 15,
+	"health": 100,
+	"range": 1,
+	"attackLength": 150,
+	"rotateWeapon": true,
+	"targetAir": true,
+	"shootCone": 15,
+	"weapon": {
+		"name": "nothing",
+	"range": 60,
+		"length": 13, 
+		"shootcone": 360,
+		"width": 0.1,
+		"reload": 10,
+		"alternate": true,
+		"shootSound": "shootBig",
+		"bullet":{
+             "lifetime": 40,
+             "instantDisappear": true,
+             "killShooter": true,
+             "speed": 1.5,
+             "splashDamageRadius": 120,
+             "splashDamage": 120,
+             "hitEffect": "commandSend",
+             "despawnEffect": "commandSend"   
+		}
+	}
+}

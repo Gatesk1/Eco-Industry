@@ -1,0 +1,19 @@
+{
+	"name": "draugur-beeFactory",
+	"description": "Makes Bee Miner?",
+	"type": "UnitFactory",
+	"unitType": "draug-bee",
+	"size": 2,
+	"produceTime": 350,
+	"consumes": {
+		"power": 2.0,
+	},
+	"category": "units",
+	"research": "titan-factory",
+	"requirements": [
+
+		{ "item": "honey-alloy", "amount": 100 },
+		{ "item": "rubber", "amount": 25 },
+		{ "item": "titanium", "amount": 100 }
+	]
+}

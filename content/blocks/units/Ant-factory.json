@@ -1,0 +1,24 @@
+{
+	"type": "unitFactory",
+	"name": "[yellow] Black Ant",
+	"description": "Constructs highly volatile thorium-reactor crawlers.",
+	"unitType": "Ant",
+	"produceTime": 100,
+	"size": 5,
+	"maxSpawn": 20,
+	"consumes": {
+		"power": 50,
+		"items": {
+		"items": [
+            {"item": "honey", "amount": 20.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 130}
+		{"item": "wood", "amount" : 140}
+		{ "item": "thorium", "amount": 150 },
+	],
+	"category": "units",
+	"research": "dagger-factory"
+}

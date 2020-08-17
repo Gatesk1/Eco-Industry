@@ -1,0 +1,31 @@
+{
+	"type": "draug",
+	"name": "draug-bee",
+	"description": "Fast Yellow Drone",
+	"maxVelocity": 70,
+	"speed": 1,
+	"flying": true,
+	"health": 20,
+	"engineOffset": 2.0,
+	"engineSize": 3, 
+	"rotateSpeed": 3,
+	"mass": 60,
+	"tomine":
+[
+                  "wood",
+                  "thorium",
+                  "titanium"
+]
+	"drillPower":6.0,
+	"itemCapacity": 100,
+	"range":10,
+	"minePower": 6.0,
+	"weapon": {
+		"name": "honey",
+		"length": 2.0,
+		"damage": 6.0,
+		"reload": 8.0,
+		"alternate": true,
+		"bullet": "lancerLaser"
+	}
+}
