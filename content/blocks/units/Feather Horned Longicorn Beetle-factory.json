@@ -1,0 +1,27 @@
+{
+	"type": "unitFactory",
+	"name": "Feather Horned Longicorn Beetle",
+	"description": "Rage",
+	"unitType": "Feather Horned Longicorn Beetle",
+	"produceTime": 1000,
+	"size": 5,
+	"maxSpawn": 2,
+	"consumes": {
+		"power": 90,
+		"items": {
+		"items": [
+            {"item": "graphite", "amount": 80.0},
+            {"item": "silicon", "amount": 80.0},
+            {"item": "Red Rubin", "amount": 50.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 130}
+		{"item": "silicon", "amount" : 140}
+		{ "item": "thorium", "amount": 150 },
+		{ "item": "mutagenic", "amount": 75}
+	],
+	"category": "units",
+	"research": "phantom-factory"
+}

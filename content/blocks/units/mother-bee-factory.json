@@ -1,26 +1,30 @@
 {
 	"type": "unitFactory",
 	"name": "[yellow] Mother's",
-	"description": "Constructs highly volatile thorium-reactor crawlers.",
+	"description": "Bee",
 	"unitType": "mother-bee",
 	"produceTime": 100,
 	"size": 7,
 	"maxSpawn": 1,
 	"consumes": {
 		"power": 80,
+		"liquid": {
+           liquid: Hydrogen
+           amount: 0.5
+}
 		"items": {
 		"items": [
             {"item": "graphite", "amount": 80.0},
-            {"item": "honey-alloy", "amount": 80.0},
+            {"item": "honey alloy", "amount": 80.0},
             {"item": "carcass", "amount": 100.0},
-      ]
-		}
-  },
+ ] 
+  }
+},
 	"requirements": [
 		{"item": "lead", "amount": 1300}
 		{"item": "silicon", "amount" : 140}
 		{ "item": "thorium", "amount": 1500 },
-		{ "item": "honey-alloy", "amount": 75}
+		{ "item": "honey alloy", "amount": 75}
 	],
 	"category": "units",
 	"research": "phantom-factory"

@@ -1,0 +1,8 @@
+size: 2
+health: 600
+update: true
+requirements: [
+  metaglass/25
+]
+category: defense
+research: reinforced-wall

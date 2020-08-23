@@ -12,7 +12,7 @@
 	"rotatespeed": 100,
 	"shootSound": "wave",
 	"ammo": {
-		"Aerosol-center": {
+		"Aerosol center": {
 			"speed": 10,
 			"lifetime":10000,
 			"damage": 1000,

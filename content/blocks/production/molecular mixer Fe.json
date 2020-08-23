@@ -1,0 +1,36 @@
+
+{
+	"type": "GenericCrafter",
+	"name": "Molecular Mixer (Ti+O = Fe)",
+	"description": "himical name (Ti+O = Fe)",
+	"liquidCapacity": 50,
+	"outputLiquid": 
+{"liquid": "Ferrum", "amount": 3},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 3,
+  liquid: {
+    liquid: Hydrogen
+	amount: 0.2
+}
+  items: {
+    items: [
+   Temperature ampulla Oxygen/1
+]
+  }
+
+ }
+  	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "honey alloy", "amount": 75 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

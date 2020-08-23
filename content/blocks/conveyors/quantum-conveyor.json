@@ -1,0 +1,12 @@
+{
+	"type": "Conveyor",
+	"name": "Quantum Conveyor",
+	"description": "-",
+	"requirements": [
+		{"item": "quant", "amount":  1},
+	],
+	"category": "distribution",
+	"speed": 0.30,
+	"health" : 640
+	"research": "titanium-conveyor"
+}

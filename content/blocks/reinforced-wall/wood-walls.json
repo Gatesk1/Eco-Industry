@@ -1,0 +1,8 @@
+size: 1
+health: 650
+update: true
+requirements: [
+  wood/20
+]
+category: defense
+research: reinforced-wall

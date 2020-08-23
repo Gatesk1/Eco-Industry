@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Honey Conveyor",
+	"description": "-",
+	"requirements": [
+		{"item": "honey alloy", "amount": 1},
+		{"item": "honey rubber", "amount": 1},
+	],
+	"category": "distribution",
+	"speed": 0.15,
+	"health" : 320
+	"research": "titanium-conveyor"
+}

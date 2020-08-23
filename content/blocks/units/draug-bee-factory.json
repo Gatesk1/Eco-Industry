@@ -12,7 +12,7 @@
 	"research": "titan-factory",
 	"requirements": [
 
-		{ "item": "honey-alloy", "amount": 100 },
+		{ "item": "honey alloy", "amount": 100 },
 		{ "item": "rubber", "amount": 25 },
 		{ "item": "titanium", "amount": 100 }
 	]

@@ -1,0 +1,101 @@
+{
+	"type": "groundUnit",
+	"name": "Sunday",
+	"description": "Sun)",
+	"maxVelocity": 0.3,
+	"speed": 0.20,
+	"drag": 0.05,
+	"mass": 30,
+	"hitsize": 70.0,
+	"rotatespeed": 0.1,
+	"health": 5000,
+	"weapon": {
+		"name": "-",
+		"length": 13,
+		"recoil": 5,
+		"width": 0.1,
+		"reload": 90,
+		"alternate": true,
+		"shootSound": "shootBig",
+		"bullet":{
+		     "bulletWidth": 20,
+		     "bulletHeight": 20,
+             "type": "BasicBulletType",
+             "lifetime": 40,
+             "damage": 20,
+             "speed": 5,
+             "shootEffect": "shellEjectBig",
+             "splashDamageRadius": 30,
+             "splashDamage": 40,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+              "type": "BasicBulletType",
+             "lifetime": 10,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 30,
+             "splashDamage": 30,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 7,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 30,
+             "splashDamage": 25,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+                   "fragBullets": 1,
+             "fragBullet":{
+              " type": "BasicBulletType",
+             "lifetime": 5,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 30,
+             "splashDamage": 25,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 5,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 20,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion",
+               "fragBullets": 1,
+             "fragBullet":{
+               "type": "BasicBulletType",
+             "lifetime": 5,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 15,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             "fragBullets": 1,
+             "fragBullet":{
+                      "type": "BasicBulletType",
+             "lifetime": 1,
+             "damage": 20,
+             "speed": 1.5,
+             "splashDamageRadius": 20,
+             "splashDamage": 10,
+             "hitEffect": "blastExplosion",
+             "despawnEffect": "blastExplosion", 
+             }
+             }
+             }
+             }
+                  }         
+                }
+		}
+	
+	}
+}

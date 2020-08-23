@@ -1,0 +1,28 @@
+{
+	"name": "Hyper Quantum Projector",
+	"description": "Green Light",
+	"type": "OverdriveProjector",
+	"health": 640,
+	"size": 2,
+	"range": 200,
+	"speedBoost": 5,
+	"consumes":{
+	    "power": 1.0,
+        	"items": {
+			"items": [
+				{ "item": "quant", "amount": 1}
+				
+			],
+			"booster":true
+		}
+},
+    
+	"requirements": [
+		{ "item": "carcass", "amount": 50	},
+		{ "item": "quant", "amount":60},
+		{ "item": "silicon", "amount":70}
+	],
+	"boost":true,
+	"category": "effect",
+	"research": "overdrive-projector"
+}

@@ -1,0 +1,32 @@
+type: ItemTurret
+name: Carbon Guardian
+description: God Gun.
+health: 3000
+size: 2
+reload: 20
+shots: 8
+range: 220
+targetAir: True
+ammoUseEffect: shellEjectMedium
+inaccuracy: 10
+shootCone: 20
+ammo: {
+  Carbon: {
+    speed: 7
+    damage: 20
+    bulletWidth: 16
+    bulletHeight: 22
+    shootEffect: blastsmoke
+    lifetime: 180
+
+   }
+}
+requirements: [
+  Carbon/50
+  copper/500
+  graphite/50
+  silicon/100
+  metaglass/100
+]
+category: turret
+research: salvo

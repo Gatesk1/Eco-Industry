@@ -1,0 +1,16 @@
+{
+	"name": "Honey Storage",
+	"description": "Big storage",
+	"type": "Vault",
+	"itemCapacity": 10000,
+	"hasItems": true,
+	"health": 3600,
+	"size": 6,
+	"requirements": [
+        { "item": "honey alloy", "amount": 500 },
+		{ "item": "carcass", "amount": 25 },
+		{ "item": "honey rubber", "amount": 250 }
+	],
+	"category": "effect",
+	"research": "vault"
+}

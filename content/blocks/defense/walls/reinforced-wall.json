@@ -1,8 +1,0 @@
-size: 2
-health: 3250
-update: true
-requirements: [
-  honey-alloy/45
-]
-category: defense
-research: reinforced-wall

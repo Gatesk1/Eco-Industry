@@ -24,7 +24,7 @@
 	"hitEffect": "hitBulletBig",
 "ammoMultiplier": 12
 },
-"honey-alloy": {
+"honey alloy": {
 "speed": 5,
 "damage": 60,
 "lifetime": 54,
@@ -39,7 +39,7 @@
     }
 "requirements": [
 { "item": "silicon", "amount": 100},
-{ "item": "honey-alloy", "amount": 100},
+{ "item": "honey alloy", "amount": 100},
 { "item": "carcass", "amount": 10}
 ],
 "category": "turret",

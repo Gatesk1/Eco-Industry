@@ -1,0 +1,21 @@
+type: GenericSmelter
+size: 1
+hasPower: true
+hasItems: true
+craftTime: 35
+craftEffect: smeltsmoke
+consumes: {
+  power: 30
+  liquid: {
+    liquid: Oxygenium
+	amount: 0.2
+  }
+}
+outputItem: Temperature ampulla Oxygen/1
+requirements: [
+  Aerosol/5
+  zirconium/2
+  silicon/2
+]
+category: crafting
+research: silicon-smelter

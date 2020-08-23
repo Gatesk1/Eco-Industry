@@ -12,7 +12,7 @@
 "shots": 10,
 "range": 200,
 "ammo": {
-"honey-alloy": {
+"honey alloy": {
 "speed": 10,
 "damage": 30,
 "lifetime": 54,
@@ -63,7 +63,7 @@
 },
 "requirements": [
 { "item": "titanium", "amount": 120},
-{ "item": "honey-alloy", "amount": 150},
+{ "item": "honey alloy", "amount": 150},
 { "item": "graphite", "amount": 220},
 { "item": "rubber", "amount": 100},
 { "item": "plastanium", "amount": 100}

@@ -1,0 +1,27 @@
+{
+	"name": "Sun protection",
+	"description": "sun",
+	"type": "UnitFactory",
+	"unitType": "Sunday",
+	"size": 7,
+	"maxSpawn": 2,
+	"produceTime": 400,
+	"consumes": {
+		"power": 6,
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 200 },
+				{ "item": "carcass", "amount": 50 }
+			]
+		},
+	},
+	"category": "units",
+	"requirements": [
+		{ "item": "wood", "amount": 2000 },
+		{ "item": "copper", "amount": 450 },
+		{ "item": "silicon", "amount": 350 },
+		{ "item": "titanium", "amount": 400 },
+		{ "item": "graphite", "amount": 400 }
+	]
+		"research": "phantom-factory"
+}

@@ -6,6 +6,6 @@ powerProduction: 1
 category: "power"
 requirements: [
 silicon/10
-honey-rubber/25
+honey rubber/25
 ]
 research: "solar-panel"

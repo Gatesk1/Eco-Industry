@@ -1,0 +1,8 @@
+size: 2
+health: 6500
+update: true
+requirements: [
+  Carbon/35
+]
+category: defense
+research: reinforced-wall

@@ -1,0 +1,10 @@
+{
+name:"Hydrogen"
+description:"H"
+temperature:0.7,
+flammability: 0,
+heatCapacity:0,
+viscosity:0,
+explosiveness:0,
+color:"3B787F"
+}

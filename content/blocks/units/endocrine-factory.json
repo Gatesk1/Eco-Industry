@@ -1,0 +1,26 @@
+{
+	"type": "unitFactory",
+	"name": "endocrine",
+	"description": "Tank? No",
+	"unitType": "endocrine",
+	"produceTime": 2000,
+	"size": 5,
+	"maxSpawn": 1,
+	"consumes": {
+		"power": 50,
+		"items": {
+		"items": [
+            {"item": "rubber", "amount": 80.0},
+            {"item": "carcass", "amount": 80.0},
+            {"item": "lead", "amount": 100.0},
+      ]
+		}
+  },
+	"requirements": [
+		{"item": "lead", "amount": 1300}
+		{"item": "silicon", "amount" : 240}
+		{ "item": "thorium", "amount": 1500 }
+	]
+	"category": "units",
+	"research": "phantom-factory"
+}

@@ -1,0 +1,23 @@
+type: GenericSmelter
+size: 3
+hasPower: true
+hasItems: true
+craftTime: 60
+craftEffect: smeltsmoke
+consumes: {
+  power: 30
+  items: {
+    items: [
+	  Green Rubin/3
+   zirconium/1
+	]
+  }
+}
+outputItem: mutagenic/1
+requirements: [
+  Aerosol/150
+  zirconium/12
+  silicon/50
+]
+category: crafting
+research: silicon-smelter

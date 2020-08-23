@@ -14,7 +14,7 @@
 }
 	}
 	"requirements": [
-		{ "item": "honey-alloy", "amount": 450 },
+		{ "item": "honey alloy", "amount": 450 },
 
 		{ "item": "silicon", "amount": 700 },
 		{ "item": "lead", "amount": 700 },
@@ -24,6 +24,7 @@
 	],
 	"category": "power",
 	"research": "impact-reactor"
+
 
 
 

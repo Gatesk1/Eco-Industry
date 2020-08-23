@@ -1,0 +1,8 @@
+size: 1
+health: 1077
+update: true
+requirements: [
+  honey alloy/10
+]
+category: defense
+research: reinforced-wall

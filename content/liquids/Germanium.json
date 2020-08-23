@@ -1,0 +1,10 @@
+{
+name:"Germanium"
+description:"Ge"
+temperature:0.7,
+flammability: 0,
+heatCapacity:0,
+viscosity:0,
+explosiveness:0,
+color:"C0C0C0FF"
+}

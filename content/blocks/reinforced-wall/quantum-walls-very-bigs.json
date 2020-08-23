@@ -1,0 +1,13 @@
+type: DeflectorWall
+size: 8
+name: quantum walls bigs
+description: A powerful bullet reflecting wall.
+health: 12000
+group: walls
+maxDamageDeflect: 60
+category: defense
+requirements: [
+  quant/70
+  Red Rubin/40
+]
+research:reinforced-wall

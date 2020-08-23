@@ -1,0 +1,15 @@
+type: SurgeWall
+size: 7
+name: quantum very big
+description: A very powerful surge lightning wall.
+health: 12000
+group: walls
+lightningChance: 2
+lightningDamage: 20
+lightningLength: 50
+category: defense
+requirements: [
+  quant/200
+  Green Rubin/120
+]
+research: reinforced-wall

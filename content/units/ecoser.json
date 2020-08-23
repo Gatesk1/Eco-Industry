@@ -18,7 +18,7 @@
 		"name": "wather-sprayer",
 		"length": 1,
 		"width": 2,
-		"reload": 100,
+		"reload": 120,
 		"range": 100,		
     "shots": 400,
     "shootcone": 360,
@@ -29,7 +29,7 @@
     "shootSound": "artillery",
 		"bullet": {
 		 "type": "LiquidBulletType",
-      "liquid" : "cryofluid",
+      "liquid" : "liquid-honey",
       "status": "freezing",
       "lifetime" : 120,
       "statusDuration" : 600,

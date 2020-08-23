@@ -1,0 +1,13 @@
+{
+	"type": "conduit",
+	"name": "Quantum Conduit",
+	"health": 900,
+    "liquidCapacity" : 40,
+	"description": "-",
+	"requirements": [
+		{"item": "quant", "amount": 2}
+	   ],
+"category": "liquid",
+"speed": 0.16,
+"research": "pulse-conduit"
+}

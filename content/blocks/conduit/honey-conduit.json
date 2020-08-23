@@ -1,0 +1,13 @@
+{
+	"type": "conduit",
+	"name": "Honey Conduit",
+	"health": 450,
+    "liquidCapacity" : 20,
+	"description": "-",
+	"requirements": [
+		{"item": "Honey Glass", "amount": 2}
+	   ],
+"category": "liquid",
+"speed": 0.8,
+"research": "pulse-conduit"
+}

@@ -13,7 +13,7 @@ consumes: {
   }
 }
 requirements: [
-  honey-alloy/80
+  honey alloy/80
   silicon/40
   graphite/20
 ]

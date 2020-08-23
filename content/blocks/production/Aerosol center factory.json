@@ -1,0 +1,24 @@
+type: GenericSmelter
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 30
+craftEffect: smeltsmoke
+consumes: {
+  power: 1
+  items: {
+    items: [
+	  Aerosol/20
+
+	]
+  }
+}
+outputItem: Aerosol center/1
+requirements: [
+  copper/750
+  Aerosol/75
+  lead/800
+
+]
+category: crafting
+research: silicon-smelter

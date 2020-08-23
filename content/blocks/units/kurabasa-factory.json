@@ -1,7 +1,7 @@
 {
 	"type": "unitFactory",
 	"name": "[yellow]KURABASA",
-	"description": "Constructs highly volatile thorium-reactor crawlers.",
+	"description": "God",
 	"unitType": "kurabasa",
 	"produceTime": 100,
 	"size": 5,
@@ -20,7 +20,7 @@
 		{"item": "lead", "amount": 130}
 		{"item": "silicon", "amount" : 140}
 		{ "item": "thorium", "amount": 150 },
-		{ "item": "Green-Rubin", "amount": 75}
+		{ "item": "Green Rubin", "amount": 75}
 	],
 	"category": "units",
 	"research": "phantom-factory"

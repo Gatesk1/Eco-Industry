@@ -1,0 +1,13 @@
+{
+	"type": "Conveyor",
+	"name": "Metaglass Conveyor",
+	"description": "-",
+	"requirements": [
+		{"item": "metaglass", "amount":  1},
+		{"item": "titanium", "amount": 2},
+	],
+	"category": "distribution",
+	"speed": 0.20,
+	"health" : 640
+	"research": "titanium-conveyor"
+}
