@@ -1,6 +1,6 @@
 type: "solarGenerator"
-name: "honey-solar-panel"
-description: "-"
+name: "honey solar panel"
+description: "Solar panel - a type of prefabricated panels to absorb sunlight energy and convert it into electrical or thermal."
 size: 2
 powerProduction: 1
 category: "power"

@@ -1,7 +1,7 @@
 {
 	"type": "Conveyor",
 	"name": "Metaglass Conveyor",
-	"description": "-",
+	"description": "Conveyor, also a conveyor - a machine of continuous action, designed for transportation of bulk and artificial cargo - minerals, rocks, mortgages, etc.  Widely used in quarries, mines, concentrators.",
 	"requirements": [
 		{"item": "metaglass", "amount":  1},
 		{"item": "titanium", "amount": 2},

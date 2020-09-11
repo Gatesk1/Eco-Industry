@@ -1,0 +1,53 @@
+"type": "ImpactReactor",
+	"name": "Quant hydroelectric power station",
+	"description": "Mini-hydro power plants do not require significant height and water pressure, but large plants will not be able to operate in the absence of these conditions.",
+	"itemDuration": 120,
+	"liquidCapacity": 100,
+	"size": 4,
+	"hasLiquids": true,
+  "powerProduction": 500.0,
+	"consumes": {
+		"power": 50.0,
+		liquid: {
+    liquid: Aсid-sulfur
+    amount: 0.6
+}
+	}
+	"requirements": [
+		{ "item": "Honey Glass", "amount": 450 },
+
+		{ "item": "silicon", "amount": 700 },
+		{ "item": "lead", "amount": 700 },
+		{ "item": "quant", "amount": 700 },
+		{ "item": "plastanium", "amount": 450 },
+
+	],
+	"category": "power",
+	"research": "impact-reactor"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

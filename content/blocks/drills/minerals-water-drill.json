@@ -1,0 +1,19 @@
+{
+	 "type": "SolidPump", 
+	"name": "Minerals drill",
+   "description": "A well is a mine, a deep, narrow round hole in the ground made by a drilling tool."
+	"result": "minerals-water",
+    "pumpAmount": 0.1,
+    "size": 3,
+    "hasPower": false,
+    "liquidCapacity": 200,
+    "rotateSpeed":1.0,
+     "requirements": [
+  { "item": "Honey Glass", "amount": 25 },
+  { "item": "titanium", "amount": 5 },
+  { "item": "silicon", "amount": 20 },
+  { "item": "metaglass", "amount": 27 },
+ ],
+ "category": "production",
+ "research": "water-extractor"
+}

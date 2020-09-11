@@ -1,0 +1,21 @@
+{
+	"type": "PowerNode",
+
+	"name": "Carbon big Power Node",
+	"description": "The ability to transmit electrical impulses over long distances was demonstrated on July 14, 1729 by physicist Stephen Gray.  He aimed to show that electricity can be transmitted using this method.  The experiment used wet ropes made of hemp suspended on silk threads (the low resistance of metal conductors was not known at that time).",
+
+	"size": 2,
+	"requirements": [
+		{ "item": "lead", "amount": 3 },
+		{ "item": "Carbon", "amount": 25 }
+	],
+
+	"update": true,
+	"solid": true,
+	"hasPower": true,
+
+	"category": "power",
+
+	"laserRange": 20,
+	"maxNodes": 10
+}

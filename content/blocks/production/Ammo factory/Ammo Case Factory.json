@@ -1,0 +1,29 @@
+type: GenericCrafter
+size: 2
+hasPower: true
+liquidCapacity: 50
+craftTime: 60
+updateEffect: producesmoke
+consumes: {
+  power: 20
+  items: {
+    items: [
+   Zincums/2
+ ]
+  }
+}
+outputItem: Ammo-Case/1
+
+requirements: [
+  titanium/250
+  thorium/100
+  silicon/250
+  metaglass/100
+  Plata T2/1
+]
+category: crafting
+research: coal-centrifuge
+
+
+
+

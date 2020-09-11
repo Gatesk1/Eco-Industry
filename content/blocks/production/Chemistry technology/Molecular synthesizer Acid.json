@@ -1,0 +1,37 @@
+
+{
+	"type": "GenericCrafter",
+	"name": "Molecular synthesizer (Sulfur+H = Acid)",
+	"description": "Acid mixer",
+	"liquidCapacity": 50,
+	"outputLiquid": 
+{"liquid": "Aсid-sulfur", "amount": 10},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 50,
+  liquid: {
+    liquid: Hydrogen
+	amount: 0.2
+}
+  items: {
+    items: [
+   Sulfurs/1
+]
+  }
+
+ }
+  	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "honey alloy", "amount": 75 },
+		{ "item": "Plata T3", "amount": 1}
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

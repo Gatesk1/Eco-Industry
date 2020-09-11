@@ -1,7 +1,7 @@
 type: SurgeWall
 size: 2
 name: quantum big walls
-description: A powerful surge lightning wall.
+description: A defensive wall, or defensive wall, is a fortification to protect the inhabitants of a city or settlement from a potential aggressor.  From ancient times until now, they surrounded the settlement.
 health: 6000
 group: walls
 lightningChance: 2

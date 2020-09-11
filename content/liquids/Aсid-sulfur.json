@@ -1,0 +1,10 @@
+{
+name:"Aсid"
+description:"Aсid sulfur"
+temperature:0.5,
+flammability: 0,
+heatCapacity:3,
+viscosity:3,
+explosiveness:0,
+color:"5FA367FF"
+}

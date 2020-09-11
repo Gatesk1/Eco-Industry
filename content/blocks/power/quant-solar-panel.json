@@ -1,0 +1,11 @@
+type: "solarGenerator"
+name: "Quant solar panel"
+description: "Solar panel - a type of prefabricated panels to absorb sunlight energy and convert it into electrical or thermal."
+size: 2
+powerProduction: 4
+category: "power"
+requirements: [
+silicon/50
+Carbon/100
+]
+research: "solar-panel"

@@ -1,0 +1,33 @@
+type: GenericCrafter
+name: Plata Factory T1
+description:A board that contains the basic components of a computer that provide logic.  The board is the basis not only of a personal computer, but also smartphones, game consoles.
+size: 2
+hasPower: true
+craftTime: 600
+updateEffect: producesmoke
+consumes: {
+  power: 2
+  items: {
+    items: [
+   honey/10
+   copper/10
+ ]
+  }
+}
+outputItem: Plata T1/1
+
+requirements: [
+  titanium/100
+  lead/250
+  silicon/150
+  copper/400
+  Plata T0/1
+]
+category: crafting
+research: coal-centrifuge
+
+
+
+
+
+

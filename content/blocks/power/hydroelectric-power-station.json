@@ -1,6 +1,6 @@
 "type": "ImpactReactor",
 	"name": "hydroelectric power station",
-	"description": "Водичка",
+	"description": "Mini-hydro power plants do not require significant height and water pressure, but large plants will not be able to operate in the absence of these conditions.",
 	"itemDuration": 120,
 	"liquidCapacity": 20,
 	"size": 4,
@@ -24,6 +24,7 @@
 	],
 	"category": "power",
 	"research": "impact-reactor"
+
 
 
 

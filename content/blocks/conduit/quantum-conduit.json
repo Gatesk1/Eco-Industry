@@ -3,7 +3,7 @@
 	"name": "Quantum Conduit",
 	"health": 900,
     "liquidCapacity" : 40,
-	"description": "-",
+	"description": "A pipe is a long hollow object or device, usually of circular cross-section, designed to move liquid, steam, gas, and so on.",
 	"requirements": [
 		{"item": "quant", "amount": 2}
 	   ],

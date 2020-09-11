@@ -1,4 +1,5 @@
 type: NuclearReactor
+description:"Reactor - a device designed to organize a controlled self-sustaining fission chain reaction, which is always accompanied by the release of energy."
 size: 3
 health: 850
 itemDuration: 420 //lmfao

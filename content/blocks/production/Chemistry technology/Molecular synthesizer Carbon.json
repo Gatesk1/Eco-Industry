@@ -1,0 +1,35 @@
+
+{
+	"type": "GenericCrafter",
+	"name": "Molecular synthesizer Carbon",
+	"description": "Molecular synthesizer Carbon",
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 60,
+  liquid: {
+    liquid: Ferrum
+	amount: 0.1
+}
+  items: {
+    items: [
+   copper/10
+]
+  }
+
+ }
+
+   outputItem: Carbon/3
+  	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+		{ "item": "Plata T2", "amount": 1 },
+		{ "item": "honey alloy", "amount": 75 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

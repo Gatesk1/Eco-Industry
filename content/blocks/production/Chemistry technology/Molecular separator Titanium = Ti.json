@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: Molecular Separator (Titan = Ti)
+description: Chemical name (Titan = Ti)
+size: 3
+hasLiquids: true
+hasPower: true
+craftTime: 180
+consumes: {
+  power: 15
+  items: {
+    items: [
+      titanium/1
+    ]
+  }
+}
+outputLiquid: {
+  liquid: Titanium
+  amount: 3
+}
+requirements: [
+  wood/40
+  titanium/25
+  graphite/30
+  Plata T2/1
+]
+research: melter
+category: crafting

@@ -1,0 +1,14 @@
+name: "Quantum Battery"
+description: "Conventional batteries, such as lithium-ion batteries, are based on classical electrochemical principles, while quantum batteries are based on the laws of quantum mechanics.  Such batteries can be an important component of many classic devices - for example, quantum computers - and they can be made using modern solid-state technologies."
+type: "battery"
+health: 1600
+size: 3
+category: "power"
+requirements: [
+quant/25
+Zincums/10
+]
+consumes:{
+powerBuffered: 160000
+}
+research:battery

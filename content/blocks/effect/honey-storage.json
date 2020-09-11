@@ -1,6 +1,6 @@
 {
 	"name": "Honey Storage",
-	"description": "Big storage",
+	"description": "Warehouses are a key element of the logistics system, which performs the function of accumulating reserves of material resources needed to dampen fluctuations in supply and demand, as well as synchronization of product flow rates in promotion systems from producers to consumers or material flows in technological production systems.",
 	"type": "Vault",
 	"itemCapacity": 10000,
 	"hasItems": true,

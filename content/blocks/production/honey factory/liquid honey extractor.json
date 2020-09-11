@@ -1,0 +1,25 @@
+type: GenericCrafter
+size: 2
+hasLiquids: true
+hasPower: true
+craftTime: 10
+consumes: {
+  power: 20
+  items: {
+    items: [
+      honey/1
+    ]
+  }
+}
+outputLiquid: {
+  liquid: liquid-honey
+  amount: 4.2
+}
+requirements: [
+  wood/40
+  titanium/25
+  graphite/30
+  Plata T1/1
+]
+research: melter
+category: crafting

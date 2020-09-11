@@ -1,0 +1,11 @@
+type: "solarGenerator"
+name: "Carbon big solar panel"
+description: "Solar panel - a type of prefabricated panels to absorb sunlight energy and convert it into electrical or thermal."
+size: 4
+powerProduction: 4
+category: "power"
+requirements: [
+silicon/25
+Carbon/50
+]
+research: "solar-panel"

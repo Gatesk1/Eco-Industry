@@ -3,7 +3,7 @@
 	"name": "Honey Conduit",
 	"health": 450,
     "liquidCapacity" : 20,
-	"description": "-",
+	"description": "A pipe is a long hollow object or device, usually of circular cross-section, designed to move liquid, steam, gas, and so on.",
 	"requirements": [
 		{"item": "Honey Glass", "amount": 2}
 	   ],

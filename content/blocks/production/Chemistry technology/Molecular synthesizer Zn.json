@@ -1,0 +1,35 @@
+
+{
+	"type": "GenericCrafter",
+	"name": "Molecular synthesizer Zincum",
+	"description": "Molecular synthesizer Zn",
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 6,
+  liquid: {
+    liquid: Zincum
+	amount: 0.1
+}
+  items: {
+    items: [
+   lead/10
+]
+  }
+
+ }
+
+   outputItem: Zincums/3
+  	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+        { "item": "Plata T2", "amount": 1 },
+		{ "item": "honey alloy", "amount": 75 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

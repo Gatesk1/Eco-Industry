@@ -1,6 +1,6 @@
 
 {
-name:"liquid-dirty-lava"
+name:"liquid dirty unilava"
 description:"typical lava :)"
 temperature:1.5,
 flammability: 6,
@@ -9,6 +9,7 @@ viscosity:0.5,
 explosiveness:0,
 color:"d95f34"
 }
+
 
 
 

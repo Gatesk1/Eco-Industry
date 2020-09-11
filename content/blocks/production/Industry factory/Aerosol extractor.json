@@ -1,0 +1,31 @@
+type: GenericCrafter
+size: 2
+hasPower: true
+liquidCapacity: 50
+craftTime: 60
+updateEffect: producesmoke
+consumes: {
+  power: 1.5
+  liquid: {
+    liquid: Liquid-water-gas
+	amount: 0.2
+}
+  items: {
+    items: [
+   titanium/1
+ ]
+  }
+}
+outputItem: Aerosol/2
+
+requirements: [
+  titanium/250
+  thorium/100
+  silicon/250
+  metaglass/100
+  Plata T2/1
+]
+category: crafting
+research: coal-centrifuge
+
+

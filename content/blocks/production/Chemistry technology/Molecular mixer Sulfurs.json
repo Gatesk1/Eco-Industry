@@ -1,0 +1,35 @@
+
+{
+	"type": "GenericCrafter",
+	"name": "Molecular Mixer (S+Sand = Sulfur)",
+	"description": "himical name (S+Sand = Sulfur)",
+	"liquidCapacity": 50,
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 60,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 20,
+  liquid: {
+    liquid: Sulfur
+	amount: 0.1
+}
+  items: {
+    items: [
+   sand/0.3
+]
+  }
+ }
+      outputItem: Sulfurs/3
+  	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "honey alloy", "amount": 75 },
+		{ "item": "Plata T2", "amount": 1}
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

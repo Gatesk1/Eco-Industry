@@ -1,0 +1,26 @@
+{
+	"type": "GenericCrafter",
+	"name": "Molecular separator (H²O = H)",
+	"description": "Chemical name (H²O = H)",
+	"liquidCapacity": 50,
+	"outputLiquid": {"liquid": "Hydrogen", "amount": 10.0},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 300,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 30,
+
+		"liquid": {"liquid": "water", "amount": 0.01}
+	},
+	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "copper", "amount": 250 },
+		{ "item": "silicon", "amount": 100 },
+        { "item": "Plata T2", "amount": 1 },
+		{ "item": "honey alloy", "amount": 75 }
+	],
+	"category": "crafting",
+	"research": "cryofluidmixer"
+}

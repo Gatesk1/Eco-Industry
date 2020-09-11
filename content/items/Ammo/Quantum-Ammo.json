@@ -1,0 +1,9 @@
+{
+	"name": "Quantum Ammo",
+	"description": "Danger Green Ammo:)",
+	"cost": 4,
+	"color": "5AD27AFF",
+	"hardness": 4.0,
+	"flammability": 1,
+	"explosiveness": 5
+}

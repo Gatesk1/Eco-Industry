@@ -1,0 +1,22 @@
+{
+	"type": "PowerNode",
+
+	"name": "Quant small power node",
+	"description": "The ability to transmit electrical impulses over long distances was demonstrated on July 14, 1729 by physicist Stephen Gray.  He aimed to show that electricity can be transmitted using this method.  The experiment used wet ropes made of hemp suspended on silk threads (the low resistance of metal conductors was not known at that time).",
+
+	"size": 1,
+	"requirements": [
+		{ "item": "lead", "amount": 10 },
+		{ "item": "quant", "amount": 10 },
+		{ "item": "silicon", "amount": 5 }
+	],
+
+	"update": true,
+	"solid": true,
+	"hasPower": true,
+
+	"category": "power",
+
+	"laserRange": 15,
+	"maxNodes": 100
+}

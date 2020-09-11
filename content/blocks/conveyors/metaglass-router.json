@@ -1,7 +1,7 @@
 {
 	"localizedName": "Metaglass Router",
 	"type": "Router",
-	"description": "-",
+	"description": "Routers help reduce network congestion by splitting it.",
 	"size": 1,
 	"speed": 5.2,
 	"health": 140,

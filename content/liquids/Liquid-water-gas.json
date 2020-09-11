@@ -1,5 +1,5 @@
 {
-name:"Liquid-water-gas"
+name:"Liquid water gas"
 description:"typical gas :)"
 temperature:0.7,
 flammability: 4,
@@ -8,6 +8,7 @@ viscosity:0.5,
 explosiveness:0,
 color:"#7aaeb1"
 }
+
 
 
 

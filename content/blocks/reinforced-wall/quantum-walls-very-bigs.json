@@ -1,7 +1,7 @@
 type: DeflectorWall
 size: 8
 name: quantum walls bigs
-description: A powerful bullet reflecting wall.
+description: A defensive wall, or defensive wall, is a fortification to protect the inhabitants of a city or settlement from a potential aggressor.  From ancient times until now, they surrounded the settlement.
 health: 12000
 group: walls
 maxDamageDeflect: 60

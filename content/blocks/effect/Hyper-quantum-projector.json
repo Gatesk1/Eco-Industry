@@ -1,13 +1,13 @@
 {
 	"name": "Hyper Quantum Projector",
-	"description": "Green Light",
+	"description": "1995 year.  Having developed the theory that a person can travel in time within the duration of his own life, Dr. Komarets Volodya at a base in the New Mexico desert (USA) led a top-secret project called (Quantum Leap).  Faced with the need to confirm his theory or lose funding, Dr. Sam Beckett stepped into the quantum accelerator and disappeared.",
 	"type": "OverdriveProjector",
 	"health": 640,
 	"size": 2,
 	"range": 200,
 	"speedBoost": 5,
 	"consumes":{
-	    "power": 1.0,
+	    "power": 60.0,
         	"items": {
 			"items": [
 				{ "item": "quant", "amount": 1}

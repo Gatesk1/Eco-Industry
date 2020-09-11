@@ -1,6 +1,6 @@
 {
 	"name": "Quantium Shield",
-	"description": "quantium shield",
+	"description": "Energy shields (also known as energy barriers, reflective shields and simply shields) are a special type of electromagnetic fields.  The Energy Shield Generator is capable of forming a protective dome that dampens the impulses of energy weapons due to extremely dense and chaotic electromagnetic fields.  The creation of fields capable of splitting material projectiles has been theoretically substantiated; work is underway in this direction.",
 	"type": "ForceProjector",
 	"health": 6000,
 	"size": 3,

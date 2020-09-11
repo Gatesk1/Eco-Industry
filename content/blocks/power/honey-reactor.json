@@ -1,0 +1,28 @@
+type: NuclearReactor
+description:"Reactor - a device designed to organize a controlled self-sustaining fission chain reaction, which is always accompanied by the release of energy."
+size: 3
+health: 850
+itemDuration: 420 //lmfao
+powerProduction: 10
+consumes: {
+  items: {
+    items: [
+      honey/2
+    ]
+  }
+  liquid: {
+    liquid: liquid-honey
+    amount: 0.1
+  }
+}
+heating: 0.05
+explosionRadius: 12
+explosionDamage: 100
+requirements: [
+  lead/150
+  silicon/150
+  peat/150
+  metaglass/25
+]
+category: power
+research: thorium-reactor

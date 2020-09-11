@@ -1,7 +1,7 @@
 {
 	"localizedName": "Metaglass Junction",
 	"type": "Junction",
-	"description": "-",
+	"description": "An intersection is a place where roads intersect, fit, or branch at one level, the boundary of which is the imaginary lines between the beginning of the rounding of the edges of the carriageway of each road.",
 	"size": 1,
 	"speed": 19,
 	"capacity": 16,

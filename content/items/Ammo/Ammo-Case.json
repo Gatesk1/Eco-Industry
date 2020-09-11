@@ -1,0 +1,9 @@
+{
+	"name": "Ammo Case",
+	"description": "Ammo Case",
+	"cost": 4,
+	"color":" 403C3DFF",
+	"hardness": 4.0,
+	"flammability": 1,
+	"explosiveness": 5
+}

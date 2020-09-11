@@ -1,0 +1,35 @@
+{
+	"type": "DoubleTurret",
+	"name": "Qunatim-Machine-Gun",
+	"description": "Tra-ta-ta",
+	"health": 5000,
+	"size": 3,
+	"reload": 0.2,
+	"shots": 10,
+	"range": 150,
+	"ammoUseEffect": "shellEjectBig",
+	"inaccuracy": 3,
+	"targetAir": true,
+	"rotatespeed": 1.3,
+	"ammo": {
+	    "Quantum-Ammo": {
+	        "speed": 3,
+	        "damage": 30,
+	        "bulletWidth": 4,
+	        "bulletHeight": 10,
+	        "shootEffect":"shootBig",
+	        "smokeEffect": "shootBigSmoke",
+	        "ammoMultiplier": 10
+		}
+	},
+	"requirements": [
+		{ "item": "copper", "amount": 250 },
+		{ "item": "lead", "amount": 150 },
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "thorium", "amount": 250},
+		{ "item": "graphite", "amount":150},
+		{ "item": "quant", "amount": 150}
+	],
+	"category": "turret",
+	"research": "salvo"
+}
